@@ -10,8 +10,7 @@ import {
   Toolbar,
   Typography,
 } from '@mui/material';
-import MenuIcon from '@mui/icons-material/menu';
-
+import { Menu as MenuIcon } from '@mui/icons-material';
 const pages: string[] = ['Work', 'About', 'Resume'];
 
 const Appbar = () => {
